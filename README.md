@@ -5,7 +5,7 @@
        I am currectly learning machine larning , computer vision , data science <br>
   </h6>
     
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" />
+   <!--<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" /> -->
 </h3>
 <div align="left">
   
@@ -18,7 +18,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40px" height="40px"/>
   <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="40px" height="40px"/>
   <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="40px" height="40px"/>
-  <img src="https://python.org"/>
+
 </div>
 
 
