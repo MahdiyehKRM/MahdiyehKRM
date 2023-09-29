@@ -6,6 +6,7 @@
   
   <h1 align="left" color="black" width="40px" height="20px" > My skills and tools  : <h1>
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50px"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50px"/>
 </div>
 
 
