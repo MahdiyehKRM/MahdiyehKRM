@@ -5,7 +5,7 @@
 
 <p>
   🎓 Master's student |<br>
-  💻 Passionate about Machine Learning, Deep Learning, CNNs, and Computer Vision |<br>
+  💻 Passionate about Machine Learning, Deep Learning, and Computer Vision |<br>
   📊 Experienced in Data Analysis |<br>
   ⚡ Interested in Big Data and Data Engineering
 </p>
