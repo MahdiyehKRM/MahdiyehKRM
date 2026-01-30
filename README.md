@@ -4,7 +4,7 @@
 </h3>
 
 <p>
-  🎓 Master's student CS at Isfahan University of Technology |<br>
+  🎓  CS Msc at Isfahan University of Technology |<br>
   💻 Passionate about Machine Learning, Deep Learning, and Computer Vision |<br>
   📊 Experienced in Data Analysis |<br>
   ⚡ Interested in Big Data and Data Engineering
