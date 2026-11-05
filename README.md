@@ -4,17 +4,17 @@
 
 <p align="left">
   🎓 <strong>M.Sc. Student in Computer Engineering</strong> at <strong>Isfahan University of Technology (IUT)</strong><br>
-  📊 Focused on <strong>Data Analysis</strong>, <strong>Data Engineering</strong>, and Large-Scale Data Systems<br>
+  📊 Focused on <strong>Big Data</strong>, Data Engineering, and Large-Scale Data Systems<br>
   🧠 Passionate about academic research in <strong>Brain Network & fMRI Analysis</strong>
 </p>
 
 ---
 
 ### 🔬 Research & Professional Interests
+- **Big Data Processing & Large-Scale Data Architecture**
 - **Brain Network & Connectomics Analysis** (fMRI, Functional Connectivity)
-- **Data Warehousing, ETL Pipelines & Large-Scale Data**
+- **Data Warehousing, ETL Pipelines & Advanced SQL**
 - **Data Analysis & Pattern Recognition**
-- **Machine Learning Applications**
 
 ---
 
@@ -22,8 +22,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
