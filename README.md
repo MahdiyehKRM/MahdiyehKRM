@@ -5,7 +5,7 @@
 <p align="left">
   🎓 <strong>M.Sc. Student in Computer Engineering</strong> at <strong>Isfahan University of Technology (IUT)</strong><br>
   📊 Focused on <strong>Big Data</strong>, Data Engineering, and Large-Scale Data Systems<br>
-  🧠 Passionate about academic research in <strong>Brain Network & fMRI Analysis</strong>
+  🧠 Passionate about  research in <strong>Brain Network & fMRI Analysis</strong>
 </p>
 
 ---
