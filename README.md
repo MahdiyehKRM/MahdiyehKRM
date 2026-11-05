@@ -4,28 +4,26 @@
 
 <p align="left">
   🎓 <strong>M.Sc. Student in Computer Engineering</strong> at <strong>Isfahan University of Technology (IUT)</strong><br>
-  🧠 <strong>Researcher</strong> focused on <em>fMRI Brain Connectomics, Dynamic Connectivity, and Deep Learning</em><br>
-  💻 Experienced in <strong>Computer Vision</strong>, <strong>Data Analysis</strong>, and <strong>Data Engineering</strong><br>
-  🌱 Currently working on graph-based representations & deep sequence modeling for brain functional networks
+  📊 Focused on <strong>Modern Data Engineering</strong>, <strong>Big Data</strong>, and Data-Driven Systems<br>
+  🧠 Also engaged in academic research involving brain network and fMRI data analysis
 </p>
 
 ---
 
-### 🔬 Research Interests
-- **Brain Network & Connectomics Analysis** (fMRI, Dynamic Functional Connectivity)
-- **Deep Learning Architectures** (Graph Neural Networks, State Space Models)
-- **Computer Vision & Pattern Recognition**
-- **Data Engineering & Warehousing** (T-SQL, ETL Pipelines)
+### 🚀 Areas of Interest
+- **Modern Data Engineering & ETL Pipelines**
+- **Big Data Processing & Architecture**
+- **Data Warehousing & Advanced SQL (T-SQL)**
+- **Machine Learning & Brain Network Analysis**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -40,3 +38,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
